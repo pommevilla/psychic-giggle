@@ -5,3 +5,5 @@ before_script:
 
 script:
     - bash equality_test.sh
+    - bash square_test.sh
+
